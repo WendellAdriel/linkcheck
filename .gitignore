@@ -1,0 +1,10 @@
+/linkcheck
+/linkcheck.exe
+/report.jsonl
+/urls.txt
+/coverage.out
+/coverage.html
+*.test
+*.test.exe
+*.prof
+.DS_Store
